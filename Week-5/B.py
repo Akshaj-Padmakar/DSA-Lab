@@ -1,4 +1,4 @@
-
+#Code for part 6, 7
 
 class Student:
     def __init__(self, name, roll_no, hostel, group_no, hobby, phone_no, native_state):
